@@ -1,0 +1,10 @@
+#contact-section {
+  background: var(--maincolor);
+  color: white;
+  min-height: 437px;
+}
+
+#contact-section strong {
+  color: var(--secondarycolor);
+}
+

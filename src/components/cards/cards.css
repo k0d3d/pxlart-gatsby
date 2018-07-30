@@ -1,0 +1,27 @@
+.t-card {
+  min-height: 222px;
+  /* max-height: 210px; */
+  margin-bottom: 10px;
+  border: 8px solid rgba(0,0,0,.125);
+}
+
+p.card-text {
+    font-size: .9em;
+}
+h5.card-title {
+    font-family: Raleway;
+    font-size: 1em;
+    font-weight: 800;
+}
+
+.card-footer .btn {
+  font-family: Raleway;
+}
+.card-footer .btn { 
+  color: white;
+}
+
+.t-card span.badge-link {
+  font-size: 65%;
+}
+
