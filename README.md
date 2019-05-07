@@ -1,25 +1,10 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Codecamp landing webpage
+Using the default Gatsby starter to build a pretty landing page for the 2018 CodeCamp I held in Lagos, Nigeria. I used the awesome @reactjs @gastbyjs
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+## Screenshot
+![picture](screenshot-lg.jpeg)
 
-## Install
 
-Make sure that you have the Gatsby CLI program installed:
-```sh
-npm install --global gatsby-cli
-```
-
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
-
-Then you can run it by:
-```sh
-cd gatsby-example-site
-gatsby develop
-```
 
 ## Deploy
 
