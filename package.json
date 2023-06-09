@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Michael Rhema <michael@pxlart.design>",
   "dependencies": {
-    "gatsby": "^1.9.277",
+    "gatsby": "^4.25.7",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "node-sass": "^4.9.2",
